@@ -1,3 +1,3 @@
-# learningPython
+# LearningPython
 
 My starting python codes.
